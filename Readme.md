@@ -24,15 +24,15 @@ Estructura del proyecto en forma de arbol :
 >
 Muestra de la compilación del proyecto mvn package : ```$ mvn package ```
 
-![](Recursos/Imagenes/mvnPackage.png)
+![](Imagenes/mvnPackage.png)
 
 Muestra de la compilacion de la clase principal :
 
-![](Recursos/Imagenes/main.png)
+![](Imagenes/main.png)
 
 Muestra de la compilacion de las pruebas con :```$ mvn test ```
 
-![](Recursos/Imagenes/test.png)
+![](Imagenes/test.png)
 
 Ejecución del aplicativo en Heroku :
 
@@ -41,11 +41,11 @@ Ejecución del aplicativo en Heroku :
 [Calculadora](https://parcial2021.herokuapp.com/?funcion=sen&numero=15)
 
 Muestra de la aplicación en ejecución :
-![](Recursos/Imagenes/Calculator.png)
+![](Imagenes/Calculator.png)
 
 
 Muestra del cliente en ejecución :
-![](Recursos/Imagenes/cliente.png)
+![](Imagenes/cliente.png)
 
 Circle Ci :
 [![CircleCI](https://circleci.com/gh/santiagolaiton2700/ParcialT1-Arep2021-1.svg?style=svg)](https://circleci.com/gh/santiagolaiton2700/ParcialT1-Arep2021-1)
